@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 8-uppercase.py file
+# 8-uppercase.py
 
 """Print a string to uppercase letters."""
 
