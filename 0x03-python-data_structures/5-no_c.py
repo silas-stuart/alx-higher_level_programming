@@ -4,5 +4,5 @@ def no_c(my_string):
     for l in my_string:
         if l == "c" or l == "C":
             continue
-        final_result += p
+        final_result += l
     return final_result
